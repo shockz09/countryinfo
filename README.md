@@ -4,11 +4,11 @@
 https://countries-one-nu.vercel.app/
 
 ##
-<b>A Country Info App which gives good and funny advices which are taken from https://restcountries.com/ 
+<b>A Country Info App which provides information about a country like its capital, flag, weather etc  which are taken from https://restcountries.com/ and https://openweathermap.org/api respectively.
 
 ##
 
-You can use this as a template and make your own Country app with React which is better than mine  🤓 🤩 🥳
+You can use this as a template and make your own Country app with React which is better and more innovative  than mine.  🤓 🤩 🥳
 
 ##
 
